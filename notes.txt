@@ -1,0 +1,2 @@
+how to run file:
+py main.py
